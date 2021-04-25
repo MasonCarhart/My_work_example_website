@@ -10,9 +10,9 @@ navbar:
     - text: "About"
       icon: fa-user 
       href: about.html
-    - text: "CV"
+    - text: "Predicting Bankruptcy"
       icon: fa-file-pdf-o
-      href: cv.html
+      href: web_html.html
   right:
     - text: "Contact me"
       icon: fa-envelope-o
