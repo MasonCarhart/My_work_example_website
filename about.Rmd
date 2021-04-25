@@ -1,7 +1,13 @@
 ---
 title: "About me"
+output:
+  html_document:
+    df_print: paged
 ---
 
-## Header
+I am a Masters student studying Economics at the University of Oregon. I am passionate about data analysis, investing, and Economics.
 
-I am a Masters student studying Economics at the University of Oregon.
+```{r, echo=FALSE}
+knitr::include_graphics("image0.jpg")
+```
+

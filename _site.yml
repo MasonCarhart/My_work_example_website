@@ -10,7 +10,7 @@ navbar:
     - text: "About"
       icon: fa-user 
       href: about.html
-    - text: "Predicting Bankruptcy"
+    - text: "Work Example"
       icon: fa-file-pdf-o
       href: web_html.html
   right:
